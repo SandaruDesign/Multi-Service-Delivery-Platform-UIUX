@@ -18,7 +18,7 @@ This project is a comprehensive multi-service platform for food, grocery, and li
 
 ### 📸 UI Design Highlights
 
-| Home | After Adding Items | My Cart |
+| Home | Share Cart| My Cart |
 | :---: | :---: | :---: |
 | ![Home](Home.png) | ![Added](after%20added%20members.png) | ![Cart](My%20Cart%20_%20with%20other%20order%20values.png) |
 
