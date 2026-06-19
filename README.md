@@ -20,15 +20,15 @@ This project is a comprehensive multi-service platform for food, grocery, and li
 
 | Home | After Adding Items | My Cart |
 | :---: | :---: | :---: |
-| ![Home](home.png) | ![Added](added-members.png) | ![Cart](my-cart.png) |
+| ![Home](Home.png) | ![Added](after%20added%20members.png) | ![Cart](My%20Cart%20_%20with%20other%20order%20values.png) |
 
 | Search Results | Shop (Delivery/Pickup) | Restaurant Dash |
 | :---: | :---: | :---: |
-| ![Search](search-result.png) | ![Shop](shop-delivery.png) | ![Dash](restaurant-dash.png) |
+| ![Search](Search%20Result%20_%20Product.png) | ![Shop](shop%20_%20delivery%20&%20pickup.png) | ![Dash](Restaurent%20Dash.png) |
 
 | Tracking (Rider Assigned) |
 | :---: |
-| ![Tracking](track-rider.png) |
+| ![Tracking](Track%20_%20After%20Assign%20a%20rider_%20expanded.png) |
 
 ---
 
