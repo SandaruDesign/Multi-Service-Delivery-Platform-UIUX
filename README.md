@@ -16,5 +16,21 @@ This project is a comprehensive multi-service platform for food, grocery, and li
 
 ---
 
-### 🔗 Prototype Access
+### 📸 UI Design Highlights
+
+| Home | After Adding Items | My Cart |
+| :---: | :---: | :---: |
+| ![Home](home.png) | ![Added](added-members.png) | ![Cart](my-cart.png) |
+
+| Search Results | Shop (Delivery/Pickup) | Restaurant Dash |
+| :---: | :---: | :---: |
+| ![Search](search-result.png) | ![Shop](shop-delivery.png) | ![Dash](restaurant-dash.png) |
+
+| Tracking (Rider Assigned) |
+| :---: |
+| ![Tracking](track-rider.png) |
+
+---
+
+### 🔗 Project Access
 *Note: Due to confidentiality, the live prototype link is currently restricted. Please contact me if you would like to discuss this project further.*
